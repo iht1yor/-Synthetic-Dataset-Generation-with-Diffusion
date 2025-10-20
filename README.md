@@ -16,7 +16,7 @@
 - Ibrohim Shukrullayev – 220010@centralasian.uz
 - Fayziev Abdulxamid – 220107@centralasian.uz
 
-**Repository:** https://github.com/medvision-cau/skin-lesion-project
+**Repository:** (https://github.com/iht1yor/-Synthetic-Dataset-Generation-with-Diffusion/blob/main/README.md)
 
 ---
 
